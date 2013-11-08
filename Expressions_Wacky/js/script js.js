@@ -12,4 +12,6 @@ var cpc = crayonBox * crayon/Kids
 console.log(cpc)
 
 
-var 
+var chestBox = [90, 25, 100 ];
+var supplies = chestBox[0] + chestBox[1] + chestBox[2];
+console.log(supplies);
