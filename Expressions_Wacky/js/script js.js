@@ -25,4 +25,14 @@ var fullage = 1 + dogAge;
 //results are full age of my dog
 console.log(fullage);
 
+//how many cup and plates
+var Cup = 18;
+var  plates = 9;
+//multiplyed more cups and plates and add it together
+var People = Cup * 2 + plates * 2;
+//results how many people to invite
+console.log(People);
+
+
+
 
