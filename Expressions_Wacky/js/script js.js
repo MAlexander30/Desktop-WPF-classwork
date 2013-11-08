@@ -11,7 +11,18 @@ var cpc = crayonBox * crayon/Kids
 //results show many crayons each child receives
 console.log(cpc)
 
-
+//How many items in each chestBox
 var chestBox = [90, 25, 100 ];
+//Adding all the chestBox together
 var supplies = chestBox[0] + chestBox[1] + chestBox[2];
+//The results in adding chestBox altogether
 console.log(supplies);
+
+//first part of my dog age
+var dogAge = "0";
+//second part of my dog age add to the first part
+var fullage = 1 + dogAge;
+//results are full age of my dog
+console.log(fullage);
+
+
