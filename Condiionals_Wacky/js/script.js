@@ -39,3 +39,16 @@ if(Fish > fishBowels){
 }
 
 
+//Ternary
+var Fish = 12;
+var fishBowels;
+//so if there are under 10 fishes then they get a Castle setting otherwise they get a Western setting
+if(Fish > 10){
+    fishBowels = "Castle setting";
+}else{
+    fishBowels = "Western setting";
+}
+console.log("fishBowels");
+
+(Fish > 10) ? console.log("Castle setting") : console.log("Western setting");
+

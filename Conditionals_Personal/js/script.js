@@ -37,6 +37,14 @@ if(highSlopes < lowSlopes){
     console.log("Stay in the house");
 }
 
+//Ternary
+var highSlopes = 13;
+var skiing;
+skiing = (highSlopes > 20) ? "We are skiing" : "We are done for the day";
+console.log(skiing);
+
+
+
 
 
 
